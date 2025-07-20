@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class 박규태_A020_22400253 {
